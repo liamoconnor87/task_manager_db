@@ -10,5 +10,6 @@ $(document).ready(function(){
             done: "Select"
         }
     });
+    $('select').formSelect();
   });
 
